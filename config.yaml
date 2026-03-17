@@ -3,16 +3,16 @@ socks-port: 7891
 mode: rule
 
 proxies:
-  - name: "mock-node-1"
+  - name: "官网"
     type: http
     server: 127.0.0.1
     port: 8080
 
 proxy-groups:
-  - name: "AUTO"
+  - name: "官网"
     type: select
     proxies:
-      - mock-node-1
+      - 官网
 
 rules:
   - MATCH,AUTO
