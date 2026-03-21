@@ -12,6 +12,7 @@ payload:
   - '+.477577.xyz'
   - '+.cdn5.com'
   - '+.sms556.com'
+  - '+.sms226.com'
   - '+.sms887.com'
   - '+.154763.xyz'
   - '+.postman.com'
