@@ -20,6 +20,3 @@ payload:
   - '+.amplitude.com'
   - '+.launchdarkly.com'
   - '+.sentry.io'
-  - '+.haiwaidaili.net'
-  - '+.dmdaili.com'
-  
